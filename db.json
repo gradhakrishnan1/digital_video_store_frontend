@@ -1,0 +1,273 @@
+{
+    "featuredfilms": [
+        {
+            "id": 1,
+            "title": "Interstellar",
+            "image": "/images/uploads/mv-item1.jpg",
+            "Rating": "7.4"
+        },
+        {
+            "id": 2,
+            "title": "The revenant",
+            "image": "/images/uploads/mv-item2.jpg",
+            "Rating": "8.4"
+        },
+        {
+            "id": 3,
+            "title": "Die hard",
+            "image": "/images/uploads/mv-item3.jpg",
+            "Rating": "8.8"
+        },
+        {
+            "id": 4,
+            "title": "The walk",
+            "image": "/images/uploads/mv-item4.jpg",
+            "Rating": "7.7"
+        },
+        {
+            "id": 7,
+            "title": "Oblivion",
+            "image": "/images/uploads/mv1.jpg",
+            "Rating": "8.1"
+        },
+        {
+            "id": 8,
+            "title": "Into the wild",
+            "image": "/images/uploads/mv2.jpg",
+            "Rating": "7.8"
+        },
+        {
+            "id": 9,
+            "title": "Die hard",
+            "image": "/images/uploads/mv-item3.jpg",
+            "Rating": "7.4"
+        },
+        {
+            "id": 10,
+            "title": "The walk",
+            "image": "/images/uploads/mv-item4.jpg",
+            "Rating": "9.1"
+        },
+        {
+            "id": 21,
+            "title": "Blade runner",
+            "image": "/images/uploads/mv3.jpg",
+            "Rating": "7.3"
+        },
+        {
+            "id": 22,
+            "title": "Mulholland pride",
+            "image": "/images/uploads/mv4.jpg",
+            "Rating": "9.5"
+        }
+    ],
+    "featuredshows": [
+        {
+            "id": 11,
+            "title": "Breaking Bad",
+            "image": "/images/uploads/tvshow_1.jpeg",
+            "Rating": "9.5"
+        },
+        {
+            "id": 12,
+            "title": "Chernobyl",
+            "image": "/images/uploads/tvshow_2.jpeg",
+            "Rating": "9.4"
+        },
+        {
+            "id": 13,
+            "title": "Game of Thrones",
+            "image": "/images/uploads/tvshow_3.jpeg",
+            "Rating": "9.2"
+        },
+        {
+            "id": 14,
+            "title": "Sherlock",
+            "image": "/images/uploads/tvshow_4.jpeg",
+            "Rating": "9.1"
+        },
+        {
+            "id": 15,
+            "title": "Friends",
+            "image": "/images/uploads/tvshow_5.jpeg",
+            "Rating": "8.9"
+        },
+        {
+            "id": 16,
+            "title": "Breaking Bad",
+            "image": "/images/uploads/tvshow_1.jpeg",
+            "Rating": "9.5"
+        },
+        {
+            "id": 17,
+            "title": "Chernobyl",
+            "image": "/images/uploads/tvshow_2.jpeg",
+            "Rating": "9.4"
+        },
+        {
+            "id": 18,
+            "title": "Game of Thrones",
+            "image": "/images/uploads/tvshow_3.jpeg",
+            "Rating": "9.2"
+        },
+        {
+            "id": 19,
+            "title": "Sherlock",
+            "image": "/images/uploads/tvshow_4.jpeg",
+            "Rating": "9.1"
+        },
+        {
+            "id": 20,
+            "title": "Friends",
+            "image": "/images/uploads/tvshow_5.jpeg",
+            "Rating": "8.9"
+        }
+    ],
+    "moviestvshows": [
+        {
+            "type": "Movie",
+            "id": 1,
+            "title": "Interstellar",
+            "artists": [
+                {
+                    "image": "https://image.tmdb.org/t/p/w342/2mcg07areWJ4EAtDvafRz7eDVvb.jpg",
+                    "name": "Matthew McConaughey"
+                },
+                {
+                    "image": "https://image.tmdb.org/t/p/w342/tLelKoPNiyJCSEtQTz1FGv4TLGc.jpg",
+                    "name": "Anne Hathaway"
+                },
+                {
+                    "image": "https://image.tmdb.org/t/p/w342/mR1ELpP0T2Q1ZRSaADPgtrbPGla.jpg",
+                    "name": "Jessica Chastain"
+                },
+                {
+                    "image": "https://image.tmdb.org/t/p/w342/57gu12UWYWtphrzlccJQfw8lORm.jpg",
+                    "name": "Ellen Burstyn"
+                }
+            ],
+            "image": "/images/uploads/mv-item1.jpg",
+            "Rating": "7.4",
+            "year": "2014",
+            "director": "Christopher Nolan",
+            "details": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+            "review": {
+                "image": "https://a.ltrbxd.com/resized/avatar/upload/3/3/8/3/4/3/shard/avtr-0-80-0-80-crop.jpg?k=71df84e995",
+                "name": "Gizmo Fan",
+                "comment": "I'm pretty sure no one will EVER come close to being as talented as Hans Zimmer is, also I would kill 10 people just to see this in theaters."
+            }
+        },
+        {
+            "type": "Movie",
+            "id": 2,
+            "title": "The revenant",
+            "image": "/images/uploads/mv-item2.jpg",
+            "Rating": "8.4"
+        },
+        {
+            "type": "Movie",
+            "id": 3,
+            "title": "Die hard",
+            "image": "/images/uploads/mv-item3.jpg",
+            "Rating": "8.8"
+        },
+        {
+            "type": "Movie",
+            "id": 4,
+            "title": "The walk",
+            "image": "/images/uploads/mv-item4.jpg",
+            "Rating": "7.7"
+        },
+        {
+            "type": "Movie",
+            "id": 5,
+            "title": "Interstellar",
+            "image": "/images/uploads/mv-item1.jpg",
+            "Rating": "7.4"
+        },
+        {
+            "type": "Movie",
+            "id": 7,
+            "title": "Oblivion",
+            "image": "/images/uploads/mv1.jpg",
+            "Rating": "8.1"
+        },
+        {
+            "type": "TvShow",
+            "id": 11,
+            "title": "Breaking Bad",
+            "image": "/images/uploads/tvshow_1.jpeg",
+            "Rating": "9.5"
+        },
+        {
+            "type": "TvShow",
+            "id": 12,
+            "title": "Chernobyl",
+            "image": "/images/uploads/tvshow_2.jpeg",
+            "Rating": "9.4"
+        },
+        {
+            "type": "TvShow",
+            "id": 13,
+            "title": "Game of Thrones",
+            "image": "/images/uploads/tvshow_3.jpeg",
+            "Rating": "9.2"
+        },
+        {
+            "type": "TvShow",
+            "id": 14,
+            "title": "Sherlock",
+            "image": "/images/uploads/tvshow_4.jpeg",
+            "Rating": "9.1"
+        },
+        {
+            "type": "TvShow",
+            "id": 15,
+            "title": "Friends",
+            "image": "/images/uploads/tvshow_5.jpeg",
+            "Rating": "8.9"
+        },
+        {
+            "type": "TvShow",
+            "id": 16,
+            "title": "Breaking Bad",
+            "image": "/images/uploads/tvshow_1.jpeg",
+            "Rating": "9.5"
+        },
+        {
+            "type": "Movie",
+            "id": 8,
+            "title": "Into the wild",
+            "image": "/images/uploads/mv2.jpg",
+            "Rating": "7.8"
+        },
+        {
+            "type": "Movie",
+            "id": 9,
+            "title": "Die hard",
+            "image": "/images/uploads/mv-item3.jpg",
+            "Rating": "7.4"
+        },
+        {
+            "type": "Movie",
+            "id": 10,
+            "title": "The walk",
+            "image": "/images/uploads/mv-item4.jpg",
+            "Rating": "9.1"
+        },
+        {
+            "type": "Movie",
+            "id": 21,
+            "title": "Blade runner",
+            "image": "/images/uploads/mv3.jpg",
+            "Rating": "7.3"
+        },
+        {
+            "type": "Movie",
+            "id": 22,
+            "title": "Mulholland pride",
+            "image": "/images/uploads/mv4.jpg",
+            "Rating": "9.5"
+        }
+    ]
+}
