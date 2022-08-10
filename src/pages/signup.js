@@ -27,7 +27,7 @@ const SignUp = (props) => {
                 email: Email,
                 password: password
             }
-            axios.post('http://localhost:4000/customer/register', requestParams).then((response) => {
+            axios.post('https://digital-video-store-back.herokuapp.com/customer/register', requestParams).then((response) => {
                 if (response.status === 200) {
                     alert('User Created Successfully !!!!')
                     window.location.href = "/login"

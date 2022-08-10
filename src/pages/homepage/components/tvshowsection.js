@@ -42,7 +42,7 @@ const TvShowSection = () => {
     }, [])
 
     const getFeaturedTvShows = async () => {
-        await fetch("http://localhost:4000/movieAndTvShow/featured?showType=TV").then(response => response.json()).then((finalResponse) => {
+        await fetch("https://digital-video-store-back.herokuapp.com/movieAndTvShow/featured?showType=TV").then(response => response.json()).then((finalResponse) => {
             updateTvShows(finalResponse)
         })
     }

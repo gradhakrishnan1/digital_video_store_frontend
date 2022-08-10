@@ -12,7 +12,7 @@ const MovieDetails = () => {
     }, [])
 
     const getMovieDetails = async (title) => {
-        await fetch(`http://localhost:4000/movieAndTvShow/title/${title}`).then(response => {
+        await fetch(`https://digital-video-store-back.herokuapp.com/movieAndTvShow/title/${title}`).then(response => {
             if (response.status === 404) {
                 window.location.href = "/";
             } else {

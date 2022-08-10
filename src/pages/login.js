@@ -13,7 +13,7 @@ const Login = (props) => {
             alert('Please enter a valid Email')
             setEmail('')
         } else {
-            axios.post(`http://localhost:4000/customer/details?customerEmail=${Email}`).then((response) => {
+            axios.post(`https://digital-video-store-back.herokuapp.com/customer/details?customerEmail=${Email}`).then((response) => {
                 if (response.status === 200) {
                     alert('User Logged In Successfully !!!')
                     localStorage.setItem('isLoggedIn', 'true');

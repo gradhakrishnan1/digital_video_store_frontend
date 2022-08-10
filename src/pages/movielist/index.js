@@ -11,7 +11,7 @@ const MovieList = () => {
     }, [])
 
     const getFilmsAndTvShows = async () => {
-        await fetch("http://localhost:4000/movieAndTvShow/movies").then(response => response.json()).then((finalResponse) => {
+        await fetch("https://digital-video-store-back.herokuapp.com/movieAndTvShow/movies").then(response => response.json()).then((finalResponse) => {
             updateFilmsShows(finalResponse)
         })
     }
